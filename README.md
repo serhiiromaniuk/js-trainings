@@ -1,2 +1,2 @@
-# js-trainings
-Various JS/TS lectures or contests
+# Trainings
+Various lectures or contests
